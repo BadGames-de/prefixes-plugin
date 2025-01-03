@@ -14,6 +14,7 @@ allprojects {
         plugin("java")
         plugin("org.jetbrains.kotlin.jvm")
         plugin("com.github.johnrengelman.shadow")
+        plugin("maven-publish")
     }
 
     repositories {
